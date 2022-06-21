@@ -1,0 +1,2 @@
+dia 20- fizemos os codigo principal, como por exemplo, da classe bola, com o javascript e o html.
+dia 21- fizemos o rastro da bola, colocamos um background, diminuimos a quantidade de bolas e aumentamos a velocidade. 
